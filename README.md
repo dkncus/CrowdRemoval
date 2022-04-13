@@ -24,3 +24,10 @@ In recent years, there has been revolutionary research in the field of object re
 5. Replace the string after 'video_path' in main.py with the path to your sample video
 
 6. Run main.py
+
+  
+![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.png)
+                                                                                                                    
+![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_2.png)
+  
+![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_3.png)
