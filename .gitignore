@@ -1,0 +1,16 @@
+.idea/
+__pycache__/
+venv/
+
+frames/
+frames_color/
+frames_inpainted/
+frames_seg/
+frames_text_seg/
+frames_median_inpaint/
+sample_videos/
+
+lama/
+pspnet50_ade20k.h5
+
+FastBilateralSolver.py
