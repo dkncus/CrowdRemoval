@@ -11,15 +11,7 @@ In recent years, there has been revolutionary research in the field of object re
 
 `pip install -r requirements.txt`
 
-2. Create the following folders in root directory:
-- frames
-- frames_color
-- frames_inpainted
-- frames_median_inpaint
-- frames_seg
-- frames_text_seg
-
-3. Download the PSPNet Segmentation model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
+3. Download the PSPNet Segmentation model from https://bit.ly/3JHWZy7 and place in the root directory
 
 4. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
   
@@ -30,8 +22,8 @@ In recent years, there has been revolutionary research in the field of object re
 7. Run main.py
 
   
-![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.jpg)
+![Check the alt text on the next image for a special suprise!](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.jpg)
                                                                                                                     
-![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_2.jpg)
+![No, not this one. The next one :D](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_2.jpg)
   
-![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_3.jpg)
+![Ȯ̸̱̦͚̜͗͌̏̏̇̏̏̓̈́̒̓̃̑͘Ḩ̶̙̱̰͉̯̭̬́́̿̃͑̄͗̓͘͝ ̵̮̠̰̹͇̳͕̄̆̉̚̚͜G̵͕̯̘̹̣̮̜̩̠̹̋O̷̤̼͉̭͈͖̒̊̇͗͑͛͗͛̅̔̚͝͝͝D̴̫̣̋̃̏̇̈́͠͠͝͠ ̶̟͛̈́̇̏͒̑̉̀̊́̋͠N̶̳͛́̂̆̎̔̍͗̈́̊̀͑͋̍̚Ǒ̷̊́ͅȚ̶̂̉̍́̑̌ ̵͉̯̜̖̝̔̽̾̉̿̽̑̽̍̈́T̸͇̺̜͍̩̜̥͇͇̈H̵̡͔͓̱̥͖͈̺͚̤͔͍͚͈͊̈́̒̄̈́̕Ị̵̛͖̞̯͓̊̌̎͑͑̾̕̕S̴̨̡̨̛͔̞͕͈̟͈̈͌͛̎̒̀̈́͜͝ ̷̡̡̯̳͙͍̣̣̤̜̔͐̍̋̇Ô̴̻͚͔͔͒͊̎̄͠ͅŅ̵͔̹̳̱̝̝̘͇̠̟̘̯̣̻̈̐̓̈͂̓͐͠͠Ȩ̴̧̭̩̖̥̈](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_3.jpg)
