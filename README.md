@@ -11,16 +11,13 @@ In recent years, there has been revolutionary research in the field of object re
 
 `pip install -r requirements.txt`
 
-3. Download the PSPNet Segmentation model from https://bit.ly/3JHWZy7 and place in the root directory
+2. Download the PSPNet Segmentation model from https://bit.ly/3JHWZy7 and place in the root directory
 
-4. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
+3. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
   
-5. Add your own sample video in .mp4 format (preferably 720p) to the root directory, or download a sample from <INSERT GOOGLE DRIVE LINK>
-  
-6. Replace the string after 'video_path' in main.py with the path to your sample video
+4. Add your own sample video in .mp4 format (preferably 720p) named 'input.mp4' to the root directory (or download a sample from <INSERT GOOGLE DRIVE LINK>)
 
-7. Run main.py
-
+5. Run main.py
   
 ![Check the alt text on the next image for a special suprise!](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.jpg)
                                                                                                                     
