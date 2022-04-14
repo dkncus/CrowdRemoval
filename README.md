@@ -7,7 +7,11 @@ In recent years, there has been revolutionary research in the field of object re
 
 # How to run
 
-1. Create the following folders in root directory:
+1. Install the required packages by the command line at the root directory with
+
+`pip install -r requirements.txt`
+
+2. Create the following folders in root directory:
 - frames
 - frames_color
 - frames_inpainted
@@ -15,15 +19,15 @@ In recent years, there has been revolutionary research in the field of object re
 - frames_seg
 - frames_text_seg
 
-2. Download the PSPNet Segmentation model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
+3. Download the PSPNet Segmentation model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
 
-3. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
+4. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
   
-4. Add your own sample video in .mp4 format (preferably 720p) to the root directory, or download a sample from <INSERT GOOGLE DRIVE LINK>
+5. Add your own sample video in .mp4 format (preferably 720p) to the root directory, or download a sample from <INSERT GOOGLE DRIVE LINK>
   
-5. Replace the string after 'video_path' in main.py with the path to your sample video
+6. Replace the string after 'video_path' in main.py with the path to your sample video
 
-6. Run main.py
+7. Run main.py
 
   
 ![Thank you for reading my alt text! <3](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.jpg)
