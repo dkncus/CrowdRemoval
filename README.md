@@ -13,11 +13,13 @@ In recent years, there has been revolutionary research in the field of object re
 
 2. Download the PSPNet Segmentation model from https://bit.ly/3JHWZy7 and place in the root directory
 
-3. Download the LaMa model from <INSERT GOOGLE DRIVE LINK> and place in the root directory
+3. Download the LaMa model from https://bit.ly/3O4MY1o and place in the root directory
   
-4. Add your own sample video in .mp4 format (preferably 720p) named 'input.mp4' to the root directory (or download a sample from <INSERT GOOGLE DRIVE LINK>)
+4. Add your own sample video in .mp4 format (preferably 720p) named 'input.mp4' to the root directory (or download a sample from https://bit.ly/3rNryfZ)
 
 5. Run main.py
+
+6. Wait. 
   
 ![Check the alt text on the next image for a special suprise!](https://github.com/dkncus/CrowdRemoval/blob/master/images/portfolio_1.jpg)
                                                                                                                     
